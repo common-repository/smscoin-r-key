@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SmsCoin R-Key\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-22 14:32+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alex <alex@smscoin.com>\n"
+"Language-Team: SmsCoin.com <alex@smscoin.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ./..\n"
+
+#: ../smscoin_rkey.php:110
+msgid "List"
+msgstr ""
+
+#: ../smscoin_rkey.php:111
+msgid "Tarifs"
+msgstr ""
+
+#: ../smscoin_rkey.php:112
+#: ../smscoin_rkey.php:379
+#: ../smscoin_rkey.php:380
+#: ../smscoin_rkey.php:520
+#: ../smscoin_rkey.php:521
+#: ../smscoin_rkey.php:565
+msgid "Settings"
+msgstr ""
+
+#: ../smscoin_rkey.php:122
+msgid "Pages : "
+msgstr ""
+
+#: ../smscoin_rkey.php:144
+msgid "List received sms"
+msgstr ""
+
+#: ../smscoin_rkey.php:172
+#, php-format
+msgid "Password %s was deleted!"
+msgstr ""
+
+#: ../smscoin_rkey.php:182
+#, php-format
+msgid "Password %s parameters was changed!"
+msgstr ""
+
+#: ../smscoin_rkey.php:229
+msgid "Manually add a password:"
+msgstr ""
+
+#: ../smscoin_rkey.php:233
+#: ../smscoin_rkey.php:314
+msgid "Key"
+msgstr ""
+
+#: ../smscoin_rkey.php:234
+#: ../smscoin_rkey.php:315
+msgid "Password"
+msgstr ""
+
+#: ../smscoin_rkey.php:235
+#: ../smscoin_rkey.php:316
+msgid "Country"
+msgstr ""
+
+#: ../smscoin_rkey.php:236
+#: ../smscoin_rkey.php:317
+msgid "Provider"
+msgstr ""
+
+#: ../smscoin_rkey.php:237
+#: ../smscoin_rkey.php:318
+msgid "Text"
+msgstr ""
+
+#: ../smscoin_rkey.php:238
+#: ../smscoin_rkey.php:319
+msgid "Cost"
+msgstr ""
+
+#: ../smscoin_rkey.php:239
+#: ../smscoin_rkey.php:321
+msgid "Time"
+msgstr ""
+
+#: ../smscoin_rkey.php:240
+#: ../smscoin_rkey.php:322
+msgid "Limit"
+msgstr ""
+
+#: ../smscoin_rkey.php:255
+msgid "Add Password"
+msgstr ""
+
+#: ../smscoin_rkey.php:261
+msgid "List recived sms"
+msgstr ""
+
+#: ../smscoin_rkey.php:264
+msgid "Items per page"
+msgstr ""
+
+#: ../smscoin_rkey.php:265
+#: ../smscoin_rkey.php:323
+msgid "Show"
+msgstr ""
+
+#: ../smscoin_rkey.php:320
+msgid "Added"
+msgstr ""
+
+#: ../smscoin_rkey.php:324
+msgid "First enter"
+msgstr ""
+
+#: ../smscoin_rkey.php:326
+msgid "Options"
+msgstr ""
+
+#: ../smscoin_rkey.php:342
+msgid "Find"
+msgstr ""
+
+#: ../smscoin_rkey.php:378
+#: ../smscoin_rkey.php:519
+msgid "First you need to configure the module!"
+msgstr ""
+
+#: ../smscoin_rkey.php:402
+#: ../smscoin_rkey.php:404
+msgid "Select Country"
+msgstr ""
+
+#: ../smscoin_rkey.php:407
+#: ../smscoin_rkey.php:409
+msgid "Select Provider"
+msgstr ""
+
+#: ../smscoin_rkey.php:413
+msgid "In order to receive a password, please send a message saying"
+msgstr ""
+
+#: ../smscoin_rkey.php:413
+msgid "to the phone number"
+msgstr ""
+
+#: ../smscoin_rkey.php:414
+msgid "The message will cost you"
+msgstr ""
+
+#: ../smscoin_rkey.php:416
+msgid "You will receive your password in reply."
+msgstr ""
+
+#: ../smscoin_rkey.php:417
+msgid "Caution!"
+msgstr ""
+
+#: ../smscoin_rkey.php:418
+msgid "Pay attention to the message text and especially spaces.All the letters are latin.You'll be charged the full price, even in case of an error."
+msgstr ""
+
+#: ../smscoin_rkey.php:422
+msgid "Error connecting to server! Update you'r tariffs"
+msgstr ""
+
+#: ../smscoin_rkey.php:509
+msgid "Your local tariff scale"
+msgstr ""
+
+#: ../smscoin_rkey.php:510
+msgid "Update your local tariff scale"
+msgstr ""
+
+#: ../smscoin_rkey.php:512
+msgid "Last update: "
+msgstr ""
+
+#: ../smscoin_rkey.php:515
+msgid "Update now: "
+msgstr ""
+
+#: ../smscoin_rkey.php:536
+msgid "Module Settings"
+msgstr ""
+
+#: ../smscoin_rkey.php:550
+msgid "Wrong sms:key ID"
+msgstr ""
+
+#: ../smscoin_rkey.php:552
+msgid "Settings saved"
+msgstr ""
+
+#: ../smscoin_rkey.php:566
+msgid "For using this module you have to be"
+msgstr ""
+
+#: ../smscoin_rkey.php:566
+msgid "registered"
+msgstr ""
+
+#: ../smscoin_rkey.php:566
+msgid " at smscoin.net ."
+msgstr ""
+
+#: ../smscoin_rkey.php:567
+msgid "<p>The sms:key is, from the implementational point of view, just a way of restricting user's ability to visit certain web-resources. In order to allow a user to review the restricted content, individual access passwords are generated; each one of these passwords can have a time and/or visit count limit, up to you. The access for the certain password is denied when the time is up OR when the visit count limit is hit, whichever comes first. Be careful while adjusting the options thought: note that when you change your sms:key options, only those users that signed up after the change are affected.</p>"
+msgstr ""
+
+#: ../smscoin_rkey.php:568
+msgid "For more information about this service:"
+msgstr ""
+
+#: ../smscoin_rkey.php:569
+msgid "<p><b>How does it work ?</b><br /> Add to content of the page or post, 2 tags and beetween hidden text, exampel: [rkey] hidden text [/rkey].</p>"
+msgstr ""
+
+#: ../smscoin_rkey.php:572
+msgid "Enter ID of you'r sms:key:"
+msgstr ""
+
+#: ../smscoin_rkey.php:572
+msgid "get sms:key"
+msgstr ""
+
+#: ../smscoin_rkey.php:575
+msgid "Select default script language"
+msgstr ""
+
+#: ../smscoin_rkey.php:584
+msgid "Input charset of you'r site (defaul value UTF-8):"
+msgstr ""
+
+#: ../smscoin_rkey.php:586
+msgid "Enter Secret code from settings of sms:key:"
+msgstr ""
+
+#: ../smscoin_rkey.php:588
+msgid "Enter the Tag name for hide the content:"
+msgstr ""
+
+#: ../smscoin_rkey.php:592
+msgid "Use gzip ?"
+msgstr ""
+
+#: ../smscoin_rkey.php:596
+msgid "Yes"
+msgstr ""
+
+#: ../smscoin_rkey.php:597
+msgid "No"
+msgstr ""
+
+#: ../smscoin_rkey.php:603
+msgid "Save Settings"
+msgstr ""
+
+#: ../smscoin_rkey.php:643
+msgid "click to show / hide the additional text"
+msgstr ""
+
+#: ../smscoin_rkey.php:645
+msgid "<h3>If you have already received the password, enter it here:</h3>"
+msgstr ""
+
+#: ../smscoin_rkey.php:656
+msgid "Continue"
+msgstr ""
+
+#: ../smscoin_rkey.php:660
+msgid "<h3>To receive your password please send an sms</h3>"
+msgstr ""
+
+#: ../smscoin_rkey.php:666
+#, fuzzy
+msgid "Hidden text"
+msgstr ""
+
+#~ msgid "Add Key"
+#~ msgstr "Добавить ключ"
+
+#~ msgid "Table"
+#~ msgstr "Таблица"
+
+#~ msgid "OYAEBU"
+#~ msgstr "ОЯЕБУ!"
+
+#, fuzzy
+#~ msgid "Add"
+#~ msgstr "Добавлен"

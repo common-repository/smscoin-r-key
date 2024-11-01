@@ -1,0 +1,44 @@
+#div_fail h1 {
+	color: #a00;
+}
+
+#div_instructions {
+	background: #ffffe0;
+	border: 1px dotted #ffa500;
+	margin: .2em 0 0 -.2em;
+	padding: .2em .4em 0;
+}
+
+#div_instructions span {
+	padding: 2px;
+}
+
+.message_text {
+	background: #b0e0e6;
+}
+
+.shortcode {
+	background: #90ee90;
+}
+
+.message_cost {
+	background: #ffdead;
+}
+
+.notes {
+	font-style: italic;
+}
+
+.div_ui a {
+	font: 12pt 'Verdana', sans-serif;
+	margin-bottom: 1px;
+}
+
+.div_ui a.active {
+	background: #4682b4;
+	color: #fff;
+}
+
+.div_provider h1 {
+	font-size: 14pt;
+}

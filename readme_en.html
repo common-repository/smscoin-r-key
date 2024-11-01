@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Installation and uninstall process</title>
+	<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+	<style type="text/css">
+		h2 {
+			color:#aa0;
+		}
+		h3 {
+			color:#483;
+		}
+		h4 {
+			color:#43a;
+		}
+		li {
+			color:#a43;
+		}
+		div {
+			color:#34a;
+		}
+		p {
+			color:#FF0000;
+			font-size: 20px;
+			font-weight: 600;
+		}	
+	</style>
+</head>
+<body>
+<table>
+		<tr>
+			<td>
+				<h2>SmsCoin - sms: key payment module for access to the hidden text (for WordPress)</h2>
+				<h2> by sending SMS messages, based on SMS:key service<br />(Local version).</h2>
+				
+				<br />
+				All information within this software product,
+
+				<br />
+				 is the intellectual property of SmsCoin, Israel.
+				<br />
+				<br />
+				Given software can be used by http://smscoin.com/ clients
+				<br />
+				for sms:key service only. Any other use 
+				<br />
+				of the software is violation of the company's right and will be pursued
+				<br />
+				according to operating 
+				<br />
+				law.
+				<br />
+				<br />
+				SmsCoin. Israel will not be held liable for any loss
+				<br />
+				or damage of any kind as a result of using this software,
+				<br />
+				including any lost revenues and/or data.
+				<br />
+				
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li> Works only on PHP 5 version.</li>
+					<li> To use this module you first must register on http://smscoin.net website,
+            and connection to sms:key service.</li>
+
+ 					<li> Registration and connection process are absolutely free.</li>
+				</ul>
+				<br />
+				<h3>How it works:</h3>
+				<br />
+			This plugin can provide paid access to any content on your website. <br />
+			In reply SMS-message user receives a short text password (key), <br />
+			which allows him to access the content you hide with this key. <br /> 
+			You decide how many times or for how long this password can be used for access. <br />
+			<br /> 
+			In the text of a page or post you add the tag: [rkey] hidden text [/ rkey]. <br /> 
+			To view the text hidden between the tags, user will need to send an SMS to a short <br /> 
+			code according to the country of his choice. In reply SMS message he will receive the access code that allows him to access the hidden text.<br />
+				<br />
+				Example:
+				<br />
+				<img src = "pic/en/key_page.png"/>
+				<br />
+				<p> We advice you not to use the module several times on the same page. </p>
+				<br />			
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<br />
+				<h3>Installation:</h3>
+				<ul>
+					<li> Copy the folder "smscoin_rkey" from the archive to the folder: wp-content/plugins.</li>
+					<br />
+					<br />
+					<li>Go to the Admin panel of your "WordPress", section Plugins,
+
+					<br />
+					Find "SmsCoin R-Key", click to activate.</li>
+					
+					<br />
+					<li>Set write permissions to file.<br />
+					/wp-content/plugins/smscoin_rkey/data/local.js </li></li>
+					<br />
+					<li> Go to the menu "SmsCoin R-Key", select "Settings" and <br />
+						follow the instructions for plugin configuration. </li>
+					<br />
+					<br />
+					Example:
+					<br />
+					<img src = "pic/en/key_set.png"/>			
+					<br />
+					<h4>Installation is complete!</h4>
+					<br />
+					<h3>Configure sms: key service:</h3>
+					<li>In the control panel on smscoin.net website, go to sms:key service settings</li> <br />
+					<li>Activate the option: Passwords' transfer.</li> <br />
+					<li>Enter the URL of the handler: <br />
+						http://yoursite.com/wp-content/plugins/smscoin_rkey/result_325.php</li> <br />		
+					<li>Enter the password for the signature request handler. </li> <br />
+ 
+
+
+					<h3>Uninstall:</h3>
+					<li>Go to the Admin panel of your "WordPress", Plugins section, 
+
+					<br />
+					Find "SmsCoin R-Key", click to deactivate.</li>		
+					<br />		
+					<li> Delete the folder wp-content/plugins/smscoin_rkey</li>
+					<br />
+					<br />
+					<h4>Module is uninstalled.</h4>
+				</ul>
+			</td>
+		</tr>
+	</table>
+	<a href = "http://smscoin.net">smscoin.net</a>
+
+
+</body>
+</html>

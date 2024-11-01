@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP:Accept-encoding} !gzip [OR]
+    RewriteCond %{HTTP_USER_AGENT} Konqueror
+    RewriteRule ^(.*)\.(json)$ $1.js [QSA,L]
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header append Vary User-Agent
+    <FilesMatch .*\.(json)$>
+	Header set Content-Encoding: gzip
+	Header set Cache-control: private
+	Header set Content-type: text/javascript
+    </FilesMatch>
+    <FilesMatch .*\.(js)$>
+	Header unset Content-Encoding
+    </FilesMatch>
+</IfModule>

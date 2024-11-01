@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SmsCoin R-Key\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-28 15:41+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: vitaly <vitaly@smscoin.com>\n"
+"Language-Team: SmsCoin.com <alex@smscoin.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey\n"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:54
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:407
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:409
+msgid "Select Provider"
+msgstr "Выбор оператора"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:55
+msgid "including VAT"
+msgstr "включая НДС"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:56
+msgid "without VAT"
+msgstr "без НДС"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:110
+msgid "List"
+msgstr "Список"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:111
+msgid "Tarifs"
+msgstr "Тарифы"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:112
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:380
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:381
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:520
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:521
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:565
+msgid "Settings"
+msgstr "Настройки"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:122
+msgid "Pages : "
+msgstr "Страницы:"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:144
+msgid "List received sms"
+msgstr "Список полученных смс "
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:172
+#, php-format
+msgid "Password %s was deleted!"
+msgstr "Пароль %s, удален!"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:182
+#, php-format
+msgid "Password %s parameters was changed!"
+msgstr "Параметры пароля %s, изменены!"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:229
+msgid "Manually add a password:"
+msgstr "Добавить пароль вручную"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:233
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:314
+msgid "Key"
+msgstr "Ключ"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:234
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:315
+msgid "Password"
+msgstr "Пароль"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:235
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:316
+msgid "Country"
+msgstr "Страна"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:236
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:317
+msgid "Provider"
+msgstr "Оператор"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:237
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:318
+msgid "Text"
+msgstr "Текст"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:238
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:319
+msgid "Cost"
+msgstr "Стоимость"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:239
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:321
+msgid "Time"
+msgstr "Время"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:240
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:322
+msgid "Limit"
+msgstr "Лимит"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:255
+msgid "Add Password"
+msgstr "Добавить пароль"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:261
+msgid "List recived sms"
+msgstr "Список полученных смс"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:264
+msgid "Items per page"
+msgstr "Записей на страницу"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:265
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:323
+msgid "Show"
+msgstr "Осталось"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:320
+msgid "Added"
+msgstr "Добавлен"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:324
+msgid "First enter"
+msgstr "Первый вход"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:326
+msgid "Options"
+msgstr "Опции"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:342
+msgid "Find"
+msgstr "Поиск"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:379
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:519
+msgid "First you need to configure the module!"
+msgstr "Сначала нужно настроить модуль"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:402
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:404
+msgid "Select Country"
+msgstr "Выбор страны"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:413
+msgid "In order to receive a password, please send a message saying"
+msgstr "Для получения пароля, отправьте сообщение"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:413
+msgid "to the phone number"
+msgstr "на номер"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:414
+msgid "The message will cost you"
+msgstr "Стоимость сообщения "
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:416
+msgid "You will receive your password in reply."
+msgstr "Пароль придет в ответном сообщении. "
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:417
+msgid "Caution!"
+msgstr "Внимание!"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:418
+msgid "Pay attention to the message text and especially spaces.All the letters are latin.You'll be charged the full price, even in case of an error."
+msgstr "Обратите внимание на формат сообщения, на пробел между словами. Все буквы в сообщении латинские. В случае ошибки в сообщении, услуга считается оплаченной."
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:422
+msgid "Error connecting to server! Update you'r tariffs"
+msgstr "Ошибка подключения к серверу! Обновите Вашу тарифную сетку."
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:509
+msgid "Your local tariff scale"
+msgstr "Ваша локальная тарифная сетка"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:510
+msgid "Update your local tariff scale"
+msgstr "Обновление Вашей локальной копии тарифной сетки"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:512
+msgid "Last update: "
+msgstr "Последнее обновление:"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:515
+msgid "Update now: "
+msgstr "Обновить сейчас"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:536
+msgid "Module Settings"
+msgstr "Настройки модуля"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:550
+msgid "Wrong sms:key ID"
+msgstr "Не верный ID смс:ключа"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:552
+msgid "Settings saved"
+msgstr "Настройки сохранены"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:566
+msgid "For using this module you have to be"
+msgstr "Для использования данного модуля требуется"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:566
+msgid "registered"
+msgstr "регистрация"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:566
+msgid " at smscoin.net ."
+msgstr "на сайте smscoin.com"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:567
+msgid "<p>The sms:key is, from the implementational point of view, just a way of restricting user's ability to visit certain web-resources. In order to allow a user to review the restricted content, individual access passwords are generated; each one of these passwords can have a time and/or visit count limit, up to you. The access for the certain password is denied when the time is up OR when the visit count limit is hit, whichever comes first. Be careful while adjusting the options thought: note that when you change your sms:key options, only those users that signed up after the change are affected.</p>"
+msgstr "<p>смс:ключ - универсальный смс сервис, который позволяет обеспечить платный доступ к любому контенту на вашем сайте. В ответ на отправленное смс сообщение пользователю присылается короткий текстовый пароль (sms ключ), с помощью которого он может получить доступ к тому, что вы закрыли этим sms ключом. Вы сами решаете сколько раз и на протяжении какого времени можно использовать пароль для доступа. Легкость настройки и гибкость в работе (скрипт смс ключа может быть размещен как у нас – локально, так и у вас - удаленно) делают смс:ключ надежным и необходимым инструментом для реализации мобильных платежей на вашем сайте.</p>"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:568
+msgid "For more information about this service:"
+msgstr "Для дополнительной информации об услуге:"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:569
+msgid "<p><b>How does it work ?</b><br /> Add to content of the page or post, 2 tags and beetween hidden text, exampel: [rkey] hidden text [/rkey].</p>"
+msgstr "<p><b>Как это работает?</b><br /> В текст страницы или поста Вы добавляете два тега: [rkey] скрытый текст [/rkey].</p><p> Для просмотра скрытого между тегами текста, пользователю потребуется послать смс на короткий номер в выбранной им стране.</p><p> В ответном смс сообщении он получит код доступа, для просмотра скрытого текста.</p>"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:572
+msgid "Enter ID of you'r sms:key:"
+msgstr "Введите ID Вашего смс:ключа"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:572
+msgid "get sms:key"
+msgstr "получить смс:ключ"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:575
+msgid "Select Country/Providers list language"
+msgstr "Выберите язык для списка стран/операторов:"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:584
+msgid "Input charset of you'r site (defaul value UTF-8):"
+msgstr "Введите кодировку символов (charset) Вашего сайта (значение по умолчанию UTF-8):"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:586
+msgid "Enter Secret code from settings of sms:key:"
+msgstr "Введите секретный код из настроек смс:ключа:"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:588
+msgid "Enter the Tag name for hide the content:"
+msgstr "Введите тэг для скрытия текста (значение по умолчанию rkey):"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:592
+msgid "Use gzip ?"
+msgstr "Включить использование gzip ?"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:596
+msgid "Yes"
+msgstr "Да "
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:597
+msgid "No"
+msgstr "Нет"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:603
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:641
+msgid "Click here to get access"
+msgstr "Получить доступ"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:643
+msgid "<h3>If you have already received the password, enter it here:</h3>"
+msgstr "<h3>Если Вы уже получили пароль, введите его здесь:</h3>"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:656
+msgid "Continue"
+msgstr "Продолжить"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:660
+msgid "<h3>To receive your password please send an sms</h3>"
+msgstr "<h3>Для получения пароля, отправьте смс сообщение </h3>"
+
+#: /home/vitaly/Desktop/smscoin_wordpress_2_9_2_rkey/smscoin_rkey/smscoin_rkey.php:666
+msgid "Hidden text"
+msgstr "Скрытый текст"
+
+#~ msgid "click to show / hide the additional text"
+#~ msgstr "отобразить / скрыть дополнительный текст"
+#~ msgid "Select country"
+#~ msgstr "Выбор страны"
+#~ msgid "SmsCoin R-key"
+#~ msgstr "Управление паролями"
+#~ msgid "Add Key"
+#~ msgstr "Добавить ключ"
+#~ msgid "Table"
+#~ msgstr "Таблица"
+#~ msgid "OYAEBU"
+#~ msgstr "ОЯЕБУ!"
+
+#, fuzzy
+#~ msgid "Add"
+#~ msgstr "Добавлен"
+
